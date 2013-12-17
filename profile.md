@@ -9,3 +9,7 @@ foo
 ---
 - foo
 - bar
+
+bar
+---
+- foo
